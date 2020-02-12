@@ -3,6 +3,10 @@ int f()
 {
 	return 0;
 }
+int h()
+{
+	return 150;
+}
 int main()
 {
 	std::cout << "Hello!";
