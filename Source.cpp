@@ -5,6 +5,8 @@ int f()
 }
 int main()
 {
-	std::cout << "Hello, World!";
+	std::cout << "Hello!";
+	std::cout << "Good bye!";
+	std::cout << std::endl;
 	return 0;
 }
