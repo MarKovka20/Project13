@@ -6,7 +6,7 @@ int f()
 void g()
 {
 	std::cout << "Hi!";
-	std::cout << std::endl;
+	std::cout << "Mister";
 }
 int main()
 {
