@@ -5,7 +5,7 @@ int f()
 }
 void g()
 {
-
+	std::cout << "Hi!";
 }
 int main()
 {
