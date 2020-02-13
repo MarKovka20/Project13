@@ -1,8 +1,5 @@
 #include <iostream>
-int f()
-{
-	return 0;
-}
+
 void g()
 {
 	std::cout << "Hi!";
