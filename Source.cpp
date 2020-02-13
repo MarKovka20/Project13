@@ -3,7 +3,6 @@
 void g()
 {
 	std::cout << "Hi!";
-	std::cout << "Miss";
 }
 int main()
 {
